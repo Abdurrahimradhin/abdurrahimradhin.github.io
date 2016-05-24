@@ -6,9 +6,9 @@ subheadline: "Wufoo-powered contact forms"
 teaser: "Get in touch with me? Use the contact form."
 permalink: "/contact/"
 ---
-NAMA:ABDURRAHIMRADHIN
-NIM:1145304992
-Fakultas:Sains dan Teknologi
+NAMA:ABDURRAHIMRADHIN <br>
+NIM:1145304992 <br>
+Fakultas:Sains dan Teknologi<br>
 Jurusan:Sistem Informasi
 
 
