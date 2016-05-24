@@ -17,7 +17,7 @@
   - title: "Drama"
     url: "/design/page/"
   
-- title: About
+- title: Partner site
   url: "/documentation/"
   side: left
   dropdown:
@@ -31,6 +31,6 @@
   url: "/search/"
   side: right
 
-- title: "Contact"
+- title: "About"
   url: "/contact/"
   side: right
