@@ -6,16 +6,22 @@
   url: "/getting-started/"
   side: left
 
-- title: "Category"
+- title: "Jurusan"
   url: "/design/"
   side: left
   dropdown:
-  - title: "Action"
+  - title: "Teknik Informatika"
     url: "/design/grid/"
-  - title: "Comedy"
+  - title: "Sistem Informasi"
     url: "/design/typography/typography/"
-  - title: "Drama"
+  - title: "Teknik Elektro"
     url: "/design/page/"
+  - title: "Teknik Industri"
+    url: "/design/page/"
+  - title: "Matematika"
+    url: "/design/page/"
+  
+  
   
 - title: Partner site
   url: "/documentation/"
