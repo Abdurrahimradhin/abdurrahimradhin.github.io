@@ -14,17 +14,16 @@ footer: abdurrahimradhin
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: https://twitter.com/SBootstrap
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: https://github.com/IronSummitMedia/startbootstrap
-
+  - title: SISTEM INFORMASI
+    url: http://sif.uin-suska.ac.id/
+  - title: TEKNIK INFORMATIKA
+    url: http://tif.uin-suska.ac.id
+  - title: TEKNIK INDUSTRI
+    url:  http://ie.uin-suska.ac.id
+  - title: MATEMATIKA
+    url: http://math.uin-suska.ac.id
+  - title: TEKNIK ELEKTRO
+    url: http://ee.uin-suska.ac.id
 # Build settings
 markdown: kramdown
 permalink: pretty
